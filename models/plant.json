@@ -1,0 +1,382 @@
+{
+    "plants":[
+        {
+            "id" : 1,
+            "name": "Apple",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Scab",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Black Rot",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 3,
+                    "name": "Cedar Apple Rust",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 4,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 2,
+            "name": "Blueberry",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 3,
+            "name": "Cherry",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Powdery Mildew",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 1,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 4,
+            "name": "Corn",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Gray Leaf Spot",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Common Rust",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 3,
+                    "name": "Northern Leaf Blight",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 4,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 5,
+            "name": "Grape",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Black Rot",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Black Measles",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 3,
+                    "name": "Leaf Blight",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 4,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 6,
+            "name": "Orange",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Haunglongbing",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 7,
+            "name": "Peach",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Bacterial Spot",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 8,
+            "name": "Pepper",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Bacterial Spot",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 9,
+            "name": "Potato",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Early Blight",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 1,
+                    "name": "Late Blight",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 1,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 10,
+            "name": "Raspberry",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 11,
+            "name": "Soybean",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 12,
+            "name": "Squash",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Powdery Mildew",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 13,
+            "name": "Strawberry",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Leaf Scorch",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        },
+        {
+            "id" : 14,
+            "name": "Tomato",
+            "image": "",
+            "disease":[
+                {
+                    "id": 1,
+                    "name": "Bacterial Scorch",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 2,
+                    "name": "Early Blight",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 3,
+                    "name": "Late Blight",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 4,
+                    "name": "Leaf Mold",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 5,
+                    "name": "Septoria Leaf Spot",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 6,
+                    "name": "Spider Mites Two Spotted Spider Mite",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 7,
+                    "name": "Target Spot",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 8,
+                    "name": "Mosaic Spot",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 9,
+                    "name": "Yellow Leaf Curl Virus",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                },
+                {
+                    "id": 10,
+                    "name": "Healthy",
+                    "image": "",
+                    "description": "",
+                    "cure": ""
+                }
+            ],
+            "description": ""
+        }
+    ]
+}

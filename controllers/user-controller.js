@@ -3,6 +3,7 @@
 const firebase = require('../db');
 const Student = require('../models/user');
 const firestore = firebase.firestore();
+const bcrypt = require('bcrypt');
 
 // Add User
 const addUser = async (req, res, next) => {
@@ -20,18 +21,36 @@ const addUser = async (req, res, next) => {
     })
     .catch(err => {
         console.log('Error getting documents', err);
+        return res.status(400).send({
+            'error' : true,
+            'message' : 'error getting documents'
+        })
     });
     // console.log(emailExist);
     if(emailExist) {
-        return res.status(400).send('Email already registered');
+        return res.status(400).send({
+            'error' : true,
+            'message' : 'Email already registered'
+        });
     }
 
     // Insert
     try {
+        // console.log(data)
+        const hashedPassword = await bcrypt.hash(data.password, 10);
+        data.password = hashedPassword;
+        console.log(data);
         await userCol.doc().set(data);
-        return res.send('User register success');
+        console.log('user registered');
+        return res.send({
+            'error' : false,
+            'message' : 'User register success'
+        });
     } catch (error) {
-        return res.status(400).send(error.message);
+        return res.status(400).send({
+            'error' : true,
+            'message' : error.message
+        });
     }
 }
 
