@@ -3,6 +3,7 @@
 ## Installation
 ### 1. Install using NPM
 `npm install`
+`npm install --save-dev`
 <br>
 ### 2. Put .env file
 download .env file here <br>
@@ -16,7 +17,7 @@ then place it on base directory (make sure the file named '.env'). <br>
 `npm run start`
 
 ## Endpoints
-[https://localhost:8080/api](http://localhost:8080/api)
+[https://localhost:8080](http://localhost:8080)
 
 ## Register
 ### URL
@@ -31,6 +32,20 @@ POST
 ### Response
 `
 {
+  "error" : false,
   "message": "User register success"
+}
+`
+## Get All Plants
+### URL
+`/plants`
+### Method
+GET
+### Response
+`
+{
+  "error" : false,
+  "message": "Plants fetched successfully"
+  "data" : []
 }
 `
