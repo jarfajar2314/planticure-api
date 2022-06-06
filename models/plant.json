@@ -3,380 +3,626 @@
         {
             "id" : 1,
             "name": "Apple",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BAPPLE%5D-matheus-cenali-wXuzS9xR49M-unsplash.jpg?alt=media&token=c585be23-e721-494b-b0f6-6022fde8f1af",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Scab",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Apple scab is a common disease of plants in the rose family (Rosaceae) that is caused by the ascomycete fungus Venturia inaequalis. While this disease affects several plant genera, including Sorbus, Cotoneaster, and Pyrus, it is most commonly associated with the infection of Malus trees, including species of flowering crabapple, as well as cultivated apple. The first symptoms of this disease are found in the foliage, blossoms, and developing fruits of affected trees, which develop dark, irregularly-shaped lesions upon infection",
+                    "cure": [
+                                {
+                                    "list1":"Choose resistant varieties when possible."
+                                },
+                                {
+                                    "list2":"Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring."
+                                },
+                                {
+                                    "list3":"Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur."
+                                },
+                                {
+                                    "list4":"Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores."
+                                }
+                            ]
                 },
                 {
-                    "id": 2,
                     "name": "Black Rot",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Black rot is a fungus disease that can cause serious losses in apple orchards, especially in warm, humid areas. The black rot fungus covers a wide geographical range and can infect many hosts other than apple. The role these hosts play in the spread and development of the disease is not known. Three forms of the disease can occur: a leaf spot known as frogeye leaf spot, a fruit rot, and a limb canker. Severe leaf spotting can result in defoliation that weakens the tree, infected fruit become unmarketable, and limb cankers can girdle and eventually kill entire branches.",
+                    "cure": [
+                                {
+                                    "list1":"Prune out dead or diseased branches."
+                                },
+                                {
+                                    "list2":"Pick all dried and shriveled fruits remaining on the trees."
+                                },
+                                {
+                                    "list3":"Remove infected plant material from the area."
+                                },
+                                {
+                                    "list4":"All infected plant parts should be burned, buried or sent to a municipal composting site."
+                                },
+                                {
+                                    "list5":"Be sure to remove the stumps of any apple trees you cut down."
+                                }
+                            ]
                 },
                 {
-                    "id": 3,
                     "name": "Cedar Apple Rust",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Gymnosporangium juniperi-virginianae is a plant pathogen that causes cedar-apple rust. In virtually any location where apples or crabapples (Malus) and Eastern red cedar (Juniperus virginiana) coexist, cedar apple rust can be a destructive or disfiguring disease on both the apples and cedars. Apples, crabapples, and eastern red cedar are the most common hosts for this disease. Similar diseases can be found on Quince and hawthorn and many species of juniper can substitute for the eastern red cedars.",
+                    "cure": [
+                                {
+                                    "list1" : "Choose resistant cultivars when available."
+                                },
+                                {   
+                                    "list2" : "Rake up and dispose of fallen leaves and other debris from under trees."
+                                },
+                                {
+                                    "list3" : "Remove galls from infected junipers. In some cases, juniper plants should be removed entirely."
+                                },
+                                {
+                                    "list4" : "Apply preventative, disease-fighting fungicides labeled for use on apples weekly, starting with bud break, to protect trees from spores being released by the juniper host. This occurs only once per year, so additional applications after this springtime spread are not necessary."
+                                }
+                            ]
                 },
                 {
-                    "id": 4,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Apple is Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition."
         },
         {
             "id" : 2,
             "name": "Blueberry",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BBLUEBERRY%5D-dina-nasyrova-Nc5M3JN8_40-unsplash.jpg?alt=media&token=eba7803b-ae34-4787-90c5-86d46ef00d61",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Blueberry is healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "Blueberries are a widely distributed and widespread group of perennial flowering plants with blue or purple berries. They are classified in the section Cyanococcus within the genus Vaccinium. Vaccinium also includes cranberries, bilberries, huckleberries and Madeira blueberries. Commercial blueberries—both wild (lowbush) and cultivated (highbush)—are all native to North America. The highbush varieties were introduced into Europe during the 1930s."
         },
         {
             "id" : 3,
             "name": "Cherry",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BCHERRY%5D-roksolana-zasiadko-CR28Ot0ckaE-unsplash.jpg?alt=media&token=8ecdb4ce-da1b-4d57-9774-2be9cf9199ef",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Powdery Mildew",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Powdery mildew of sweet and sour cherry is caused by Podosphaera clandestina, an obligate biotrophic fungus. Mid- and late-season sweet cherry (Prunus avium) cultivars are commonly affected, rendering them unmarketable due to the covering of white fungal growth on the cherry surface. Season long disease control of both leaves and fruit is critical to minimize overall disease pressure in the orchard and consequently to protect developing fruit from accumulating spores on their surfaces.",
+                    "cure": [
+                                {
+                                    "list1" : "Plant resistant cultivars in sunny locations whenever possible."
+                                },
+                                {
+                                    "list2" : "Prune or stake plants to improve air circulation. Make sure to disinfect your pruning tools (one part bleach to 4 parts water) after each cut."
+                                },
+                                {
+                                    "list3" : "Remove diseased foliage from the plant and clean up fallen debris on the ground."
+                                },
+                                {
+                                    "list4" : "Use a thick layer of mulch or organic compost to cover the soil after you have raked and cleaned it well. Mulch will prevent the disease spores from splashing back up onto the leaves."
+                                }
+                            ]
                 },
                 {
-                    "id": 1,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Cherry us Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit). Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus. The name 'cherry' also refers to the cherry tree and its wood, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in 'ornamental cherry' or 'cherry blossom'. Wild cherry may refer to any of the cherry species growing outside cultivation, although Prunus avium is often referred to specifically by the name 'wild cherry' in the British Isles."
         },
         {
             "id" : 4,
             "name": "Corn",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BCORN%5D-wouter-supardi-salari-HE_MjmWh9eQ-unsplash.jpg?alt=media&token=3fb409cc-8b1b-4c14-ad07-f220e332f8e7",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Gray Leaf Spot",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Grey leaf spot (GLS) is a foliar fungal disease that affects maize, also known as corn. GLS is considered one of the most significant yield-limiting diseases of corn worldwide. There are two fungal pathogens that cause GLS: Cercospora zeae-maydis and Cercospora zeina.[2][3][4] Symptoms seen on corn include leaf lesions, discoloration (chlorosis), and foliar blight. Distinct symptoms of GLS are rectangular, brown to gray necrotic lesions that run parallel to the leaf, spanning the spaces between the secondary leaf veins. The fungus survives in the debris of topsoil and infects healthy crops via asexual spores called conidia. Environmental conditions that best suit infection and growth include moist, humid, and warm climates. Poor airflow, low sunlight, overcrowding, improper soil nutrient and irrigation management, and poor soil drainage can all contribute to the propagation of the disease. Management techniques include crop resistance, crop rotation, residue management, use of fungicides, and weed control. The purpose of disease management is to prevent the amount of secondary disease cycles as well as to protect leaf area from damage prior to grain formation. Corn grey leaf spot is an important disease of corn production in the United States, economically significant throughout the Midwest and Mid-Atlantic regions. However, it is also prevalent in Africa, Central America, China, Europe, India, Mexico, the Philippines, northern South America, and Southeast Asia. The teleomorph (sexual phase) of Cercospora zeae-maydis is assumed to be Mycosphaerella sp.",
+                    "cure": [
+                                {
+                                    "list1" : "Prune and remove heavily affected leaves. If there is only one spot or two, skip this and follow the next steps."
+                                },
+                                {
+                                    "list2" : "Provide frequent treatment of neem oil or another fungicide to the foliage. Copper-based fungicides are safe and effective for most plants, but always do your research, copper can be harmful to certain plants. "
+                                },
+                                {
+                                    "list3" : "Avoid getting water onto the leaves as it recovers."
+                                },
+                                {
+                                    "list4" : "Keep the plant  away from other plants temporarily. This will prevent the infection from spreading to the foliage of your other plants."
+                                },
+                                {
+                                    "list5" : "Monitor daily to ensure the infection has stopped spreading."
+                                }
+                            ]
                 },
                 {
-                    "id": 2,
                     "name": "Common Rust",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Common rust on sweet corn is caused by the fungus Puccinia sorghi. Epidemics of this disease can cause serious losses in yield and quality of sweet corn. High rust susceptibility of many popular sweet corn hybrids is a major factor contributing to rust epidemics.",
+                    "cure": [
+                                {
+                                    "list1" : "To reduce the incidence of corn rust, plant only corn that has resistance to the fungus."
+                                },
+                                {
+                                    "list2" : "Resistance is either in the form of race-specific resistance or partial rust resistance."
+                                },
+                                {
+                                    "list3" : "In either case, no sweet corn is completely resistant."
+                                },
+                                {
+                                    "list4" : "If the corn begins to show symptoms of infection, immediately spray with a fungicide."
+                                }
+                            ]
                 },
                 {
-                    "id": 3,
                     "name": "Northern Leaf Blight",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Northern corn leaf blight (NCLB) or Turcicum leaf blight (TLB) is a foliar disease of corn (maize) caused by Exserohilum turcicum, the anamorph of the ascomycete Setosphaeria turcica. With its characteristic cigar-shaped lesions, this disease can cause significant yield loss in susceptible corn hybrids.",
+                    "cure": [
+                                {
+                                    "list1" : "Control of this disease is often focused on management and prevention. First, choose corn varieties or hybrids that are resistant or at least have moderate resistance to northern corn leaf blight."
+                                },
+                                {
+                                    "list2" : "When you grow corn, make sure it does not stay wet for long periods of time. The fungus that causes this infection needs between six and 18 hours of leaf wetness to develop. Plant corn with enough space for airflow and water in the morning so leaves can dry throughout the day."
+                                },
+                                {
+                                    "list3" : "The fungus overwinters in plant material, so it is also important to manage infected plants. Tilling the corn into the soil is one strategy, but with a small garden it may make more sense to just remove and destroy the affected plants."
+                                },
+                                {
+                                    "list4" : "Treating northern corn leaf blight involves using fungicides. For most home gardeners this step isn’t needed, but if you have a bad infection, you may want to try this chemical treatment. The infection usually begins around the time of silking, and this is when the fungicide should be applied."
+                                }
+                            ]
                 },
                 {
-                    "id": 4,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Corn is Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "Maize, also known as corn (North American and Australian English), is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago. The leafy stalk of the plant produces pollen inflorescences (or 'tassels') and separate ovuliferous inflorescences called ears that when fertilized yield kernels or seeds, which are fruits. Maize has become a staple food in many parts of the world, with the total production of maize surpassing that of wheat or rice. In addition to being consumed directly by humans (often in the form of masa), maize is also used for corn ethanol, animal feed and other maize products, such as corn starch and corn syrup. The six major types of maize are dent corn, flint corn, pod corn, popcorn, flour corn, and sweet corn. Sugar-rich varieties called sweet corn are usually grown for human consumption as kernels, while field corn varieties are used for animal feed, various corn-based human food uses (including grinding into cornmeal or masa, pressing into corn oil, fermentation and distillation into alcoholic beverages like bourbon whiskey), and as feedstocks for the chemical industry. Maize is also used in making ethanol and other biofuels."
         },
         {
             "id" : 5,
             "name": "Grape",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BGRAPE%5D-aedrian-qUXN6xWTh98-unsplash.jpg?alt=media&token=8f41f142-554e-4e97-95fe-f693684cc09f",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Black Rot",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Grape black rot is a fungal disease caused by an ascomycetous fungus, Guignardia bidwellii, that attacks grape vines during hot and humid weather. “Grape black rot originated in eastern North America, but now occurs in portions of Europe, South America, and Asia. It can cause complete crop loss in warm, humid climates, but is virtually unknown in regions with arid summers.” The name comes from the black fringe that borders growing brown patches on the leaves. The disease also attacks other parts of the plant, “all green parts of the vine: the shoots, leaf and fruit stems, tendrils, and fruit. The most damaging effect is to the fruit”.",
+                    "cure": [
+                                {
+                                    "list1" : "Look for characteristic dark circles on the leaves, dark raisin-like berries and lesions on the leaves and shoots of the grapes to confirm it is black rot. Before you can begin curing the rot, you must diagnose that what you are dealing with is in fact black rot."
+                                },
+                                {
+                                    "list2" : "Cut off the obviously affected parts of the grape vine with a sterile knife. Remove all spotted leaves and the black, mummified grapes. Be extremely thorough and make sure you remove all parts of the plant that are affected by the black rot."
+                                },
+                                {
+                                    "list3" : "Place fans in the growing area to keep the plants dry. This will help prevent the rot from spreading to other sections of the plant and will help dry out the newly cut parts of the plant. Black rot is quite contagious and is easily spread by water dripping from one affected part of the plant to another. Drying the plants as quickly as possible after watering or rainfall helps keep the disease in check."
+                                },
+                                {
+                                    "list4" : "Apply a paste of cinnamon mixed with cooking oil to the remaining tissues of the plant. This paste -- when applied to the newly cut sections of the plant -- seals the wound and keeps it dry."
+                                },
+                                {
+                                    "list5" : "Apply a fungicide, such as myclobutanil or captan according to the directions on the label."
+                                },
+                                {
+                                    "list6" : "Re-apply the fungicide at two-week intervals until the black rot has been cured. In the meantime, carefully examine the plant and use a sterile knife to remove any additional affected areas. Apply the fungicide paste to the new cuts to help them heal."
+                                }
+                            ]
                 },
                 {
-                    "id": 2,
                     "name": "Black Measles",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Grapevine measles, also called esca, black measles or Spanish measles, has long plagued grape growers with its cryptic expression of symptoms and, for a long time, a lack of identifiable causal organism(s). The name 'measles' refers to the superficial spots found on the fruit. During the season, the spots may coalesce over the skin surface, making berries black in appearance. Spotting can develop anytime between fruit set and a few days prior to harvest. Berries affected at fruit set tend not to mature and will shrivel and dry up. In addition to spotting, fruit affected later in the season will also have an acrid taste.",
+                    "cure": [
+                                {
+                                    "list1" : "Presently, there are no effective management strategies for measles. Wine grape growers with small vineyards will often have field crews remove infected fruit prior to harvest. Raisins affected by measles will be discarded during harvest or at the packing house, while table grape growers will leave affected fruit on the vine. Current research is focused on protecting pruning wounds from fungal infections to minimize suspect fungi from colonizing fresh wounds."
+                                }   
+                            ]
                 },
                 {
-                    "id": 3,
                     "name": "Leaf Blight",
                     "image": "",
                     "description": "",
                     "cure": ""
                 },
                 {
-                    "id": 4,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Grape is Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes can be eaten fresh as table grapes, used for making wine, jam, grape juice, jelly, grape seed extract, vinegar, and grape seed oil, or dried as raisins, currants and sultanas. Grapes are a non-climacteric type of fruit, generally occurring in clusters."
         },
         {
             "id" : 6,
             "name": "Orange",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BORANGE%5D-jen-gunter-A4BBdJQu2co-unsplash.jpg?alt=media&token=04fe77c0-12c7-4228-9dcf-c261a8d1fc08",
             "disease":[
                 {
-                    "id": 1,
-                    "name": "Haunglongbing",
+                    "name": "Huanglongbing",
                     "image": "",
-                    "description": "",
+                    "description": "Huanglongbing (HLB) or citrus greening is the most severe citrus disease, currently devastating the citrus industry worldwide. The presumed causal bacterial agent Candidatus Liberibacter spp. affects tree health as well as fruit development, ripening and quality of citrus fruits and juice. Fruit from infected orange trees can be either symptomatic or asymptomatic. Symptomatic oranges are small, asymmetrical and greener than healthy fruit. Furthermore, symptomatic oranges show higher titratable acidity and lower soluble solids, solids/acids ratio, total sugars, and malic acid levels. Among flavor volatiles, ethyl butanoate, valencene, decanal and other ethyl esters are lower, but many monoterpenes are higher in symptomatic fruit compared to healthy and asymptomatic fruit. The disease also causes an increase in secondary metabolites in the orange peel and pulp, including hydroxycinnamic acids, limonin, nomilin, narirutin, and hesperidin. Resulting from these chemical changes, juice made from symptomatic fruit is described as distinctly bitter, sour, salty/umami, metallic, musty, and lacking in sweetness and fruity/orange flavor.",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "An orange is a fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus x sinensis, which is also called sweet orange, to distinguish it from the related Citrus x aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations. The orange is a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata). The chloroplast genome, and therefore the maternal line, is that of pomelo. The sweet orange has had its full genome sequenced."
         },
         {
             "id" : 7,
             "name": "Peach",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BPEACH%5D-luann-hunt-O3TlS547j7k-unsplash.jpg?alt=media&token=86d148cd-afe2-4125-b0ef-f4e28d63d50d",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Bacterial Spot",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Bacterial leaf spot of peach, also known as bacterial shot hole, is a common disease on older peach trees and nectarines. This peach tree leaf spot disease is caused by the bacterium Xanthomonas campestris pv. pruni. Bacterial spot on peach trees results in loss of fruit and the overall malaise of trees caused by recurrent defoliation. Also, these weakened trees are more susceptible to winter injury. Read more at Gardening Know How: Peach Tree Leaf Spot: Learn About Bacterial Spot On Peach Trees https://www.gardeningknowhow.com/edible/fruits/peach/bacterial-spot-on-peach-trees.htm",
+                    "cure": [
+                                {
+                                    "list1" : "Bacterial spot is very difficult to control on highly susceptible cultivars. Under optimal environmental conditions for disease development, control can be difficult even on moderately susceptible cultivars. Control and management measures must be applied preventatively to successfully reduce losses from this disease. Once bacterial spot symptoms are observed, it is almost impossible to bring the disease under control if environmental conditions remain favorable. Environmental conditions that favor bacterial spot development include heavy rain events when temperatures are above 75°F. Extended periods of hot, dry weather reduce the threat of the disease."
+                                },
+                                {
+                                    "list2" : "Planting resistant cultivars is the most effective control measure. An increasing number of good peach cultivars are highly resistant to bacterial spot. Resistance in plums, nectarines, and apricots is not as common. Most, if not all, cultivars developed west of the Rocky Mountains are highly susceptible because they are bred in an environment unsuitable for disease development. Many of the new low-acid white and yellow stone fruit cultivars are highly susceptible to bacterial spot infection. Check with the nursery on the bacterial spot susceptibility before purchasing and planting new stone fruit cultivars."
+                                }
+                            ]
                 },
                 {
-                    "id": 2,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Peach is Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "The peach (Prunus persica) is a deciduous tree first domesticated and cultivated in Zhejiang province of Eastern China. It bears edible juicy fruits with various characteristics, most called peaches and others (the glossy-skinned, non-fuzzy varieties), nectarines. The specific name persica refers to its widespread cultivation in Persia (modern-day Iran), from where it was transplanted to Europe. It belongs to the genus Prunus, which includes the cherry, apricot, almond, and plum, in the rose family. The peach is classified with the almond in the subgenus Amygdalus, distinguished from the other subgenera by the corrugated seed shell (endocarp). Due to their close relatedness, the kernel of a peach stone tastes remarkably similar to almond, and peach stones are often used to make a cheap version of marzipan, known as persipan."
         },
         {
             "id" : 8,
             "name": "Pepper",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BPEPPER%5D-nick-fewings-gpP-OkJ5BbI-unsplash.jpg?alt=media&token=e17920b4-18ec-4563-a279-73cdd9e28d6d",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Bacterial Spot",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Bacterial spot is caused by four species of Xanthomonas and occurs worldwide wherever tomatoes are grown. Bacterial spot causes leaf and fruit spots, which leads to defoliation, sun-scalded fruit, and yield loss. Due to diversity within the bacterial spot pathogens, the disease can occur at different temperatures and is a threat to tomato production worldwide. Disease development is favored by temperatures of 75 to 86 ℉ and high precipitation.",
+                    "cure": [
+                                {
+                                    "list1":"Washing seeds for 40 minutes in diluted Clorox (two parts Clorox plus eight parts water) is effective in reducing the bacterial population on a seed’s surface. However, bacteria inside the seeds are little affected by this treatment."
+                                },
+                                {
+                                    "list2":"Seed treatment with hot water, soaking seeds for 30 minutes in water pre-heated to 125 F/51 C, is effective in reducing bacterial populations on the surface and inside the seeds. However, seed germination may be affected by heat treatment if not done accurately, while the risk is relatively low with bleach treatment."
+                                }
+                            ]
                 },
                 {
-                    "id": 2,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Pepper is Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "The bell pepper (also known as sweet pepper, pepper, or capsicum is the fruit of plants in the Grossum cultivar group of the species Capsicum annuum. Cultivars of the plant produce fruits in different colors, including red, yellow, orange, green, white, and purple. Bell peppers are sometimes grouped with less pungent chili varieties as 'sweet peppers'. While they are fruits—botanically classified as berries—they are commonly used as a vegetable ingredient or side dish. The fruits of the Capsicum genus are categorized as chili peppers. Peppers are native to Mexico, Central America, and northern South America. Pepper seeds were imported to Spain in 1493 and then spread through Europe and Asia. The mild bell pepper cultivar was developed in the 1920s, in Szeged, Hungary. Preferred growing conditions for bell peppers include warm, moist soil in a temperature range of 21 to 29 °C (70 to 84 °F)."
         },
         {
             "id" : 9,
             "name": "Potato",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BPOTATO%5D-eric-prouzet-52DMHPBAvXY-unsplash.jpg?alt=media&token=cf003efe-5a1c-42f9-b1d2-c5aa7503602a",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Early Blight",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Early blight of potato is caused by the fungal pathogen Alternaria solani. The disease affects leaves, stems and tubers and can reduce yield, tuber size, storability of tubers, quality of fresh-market and processing tubers and marketability of the crop.",
+                    "cure": [
+                                {
+                                    "list1" : "Prune or stake plants to improve air circulation and reduce fungal problems."
+                                },
+                                {
+                                    "list2" : "Make sure to disinfect your pruning shears (one part bleach to 4 parts water) after each cut."
+                                },
+                                {
+                                    "list3" : "Keep the soil under plants clean and free of garden debris. Add a layer of organic compost to prevent the spores from splashing back up onto vegetation."
+                                },
+                                {
+                                    "list4" : "Drip irrigation and soaker hoses can be used to help keep the foliage dry."
+                                },
+                                {
+                                    "list5" : "For best control, apply copper-based fungicides early, two weeks before disease normally appears or when weather forecasts predict a long period of wet weather. Alternatively, begin treatment when disease first appears, and repeat every 7-10 days for as long as needed."
+                                }
+                            ]
                 },
                 {
-                    "id": 1,
                     "name": "Late Blight",
                     "image": "",
-                    "description": "",
+                    "description": "Phytophthora infestans is an oomycete or water mold, a fungus-like microorganism that causes the serious potato and tomato disease known as late blight or potato blight. Early blight, caused by Alternaria solani, is also often called 'potato blight'. Late blight was a major culprit in the 1840s European, the 1845 - 1852 Irish, and the 1846 Highland potato famines. The organism can also infect some other members of the Solanaceae. The pathogen is favored by moist, cool environments: sporulation is optimal at 12-18 °C (54-64 °F) in water-saturated or nearly saturated environments, and zoospore production is favored at temperatures below 15 °C (59 °F). Lesion growth rates are typically optimal at a slightly warmer temperature range of 20 to 24 °C (68 to 75 °F).",
                     "cure": ""
                 },
                 {
-                    "id": 1,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Potato is Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "The potato is a starchy tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas. The plant is a perennial in the nightshade family Solanaceae. Wild potato species can be found from the southern United States to southern Chile. The potato was originally believed to have been domesticated by Native Americans independently in multiple locations, but later genetic studies traced a single origin, in the area of present-day southern Peru and extreme northwestern Bolivia. Potatoes were domesticated there approximately 7,000-10,000 years ago, from a species in the Solanum brevicaule complex. In the Andes region of South America, where the species is indigenous, some close relatives of the potato are cultivated."
         },
         {
             "id" : 10,
             "name": "Raspberry",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BRASPBERRY%5D-stan-slade-BM27BzBrhVM-unsplash.jpg?alt=media&token=de88a2f5-8a4b-43f7-93a1-778a72b20202",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Raspberry is Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "The raspberry is the edible fruit of a multitude of plant species in the genus Rubus of the rose family, most of which are in the subgenus Idaeobatus. The name also applies to these plants themselves. Raspberries are perennial with woody stems. World production of raspberries in 2020 was 895,771 tonnes, led by Russia with 20% of the total."
         },
         {
             "id" : 11,
             "name": "Soybean",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BSOYBEAN%5D-daniela-paola-alchapar-AlqMN9ub3Aw-unsplash.jpg?alt=media&token=bbaba4f6-50f2-458b-99e1-e9ab7699b6c4",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Soybean is Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "The soybean, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses. Traditional unfermented food uses of soybeans include soy milk, from which tofu and tofu skin are made. Fermented soy foods include soy sauce, fermented bean paste, nattō, and tempeh. Fat-free (defatted) soybean meal is a significant and cheap source of protein for animal feeds and many packaged meals. For example, soybean products, such as textured vegetable protein (TVP), are ingredients in many meat and dairy substitutes. Soy beans contain significant amounts of phytic acid, dietary minerals and B vitamins. Soy vegetable oil, used in food and industrial applications, is another product of processing the soybean crop. Soybean is the most important protein source for feed farm animals (that in turn yields animal protein for human consumption)."
         },
         {
             "id" : 12,
             "name": "Squash",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BSQUASH%5D-brigitte-tohm-OmCUSp8o7a4-unsplash.jpg?alt=media&token=4a9c96bf-f696-44a3-bef1-b3aa6cbb151f",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Powdery Mildew",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Powdery mildew infections are caused by several different species of fungus. Each species has its own preferred host plants. The species of powdery mildew that affects squash foliage (Erysiphe cichoracearum) is different from those that target peas (Erysiphe pisi) or eggplants (Leveillula taurica). Interestingly, this fungus lives on the outside of the leaves and does not penetrate the interior tissue. It can only grow on the surface of the leaf.",
+                    "cure": [
+                                {
+                                    "list1" : "Provide good air circulation by spacing squash plants several feet apart."
+                                },
+                                {
+                                    "list2" : "Don't touch infected leaves and then touch healthy leaves. You’ve just spread spores!"
+                                },
+                                {
+                                    "list3" : "Always plant squash in the full sun. Shady conditions are more humid and that encourages spore germination."
+                                },
+                                {
+                                    "list4" : "Cut off any leaves that show early signs of infection ASAP. Toss them in the garbage or burn pile. Keep them out of the compost pile."
+                                },
+                                {
+                                    "list5" : "Do not apply nitrogen fertilizer in the middle of the growing season. Doing so causes a flush of new growth which is more prone to the disease."
+                                },
+                                {
+                                    "list6" : "Remove and destroy all infected plants at the end of the growing season to get rid of as many spores as possible. Do not compost them; throw them in the garbage, or bury or burn them."
+                                },
+                                {
+                                    "list7" : "Prune out half of the leaves from each plant early in the season to reduce the humidity level around the plant and limit the chances of infection."
+                                }
+                            ]
                 }
             ],
-            "description": ""
+            "description": "Cucurbita (Latin for gourd) is a genus of herbaceous vegetables in the gourd family, Cucurbitaceae (also known as cucurbits or cucurbi) native to the Andes and Mesoamerica. Five species are grown worldwide for their edible vegetable, variously known as squash, pumpkin, or gourd, depending on species, variety, and local parlance, and for their seeds. Other kinds of gourd, also called bottle-gourds, are native to Africa and belong to the genus Lagenaria, which is in the same family and subfamily as Cucurbita, but in a different tribe. These other gourds are used as utensils or vessels, and their young fruits are eaten much like those of the Cucurbita species."
         },
         {
             "id" : 13,
             "name": "Strawberry",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BSTRAWBERRY%5D-sviatoslav-huzii-I497Uc8xWXQ-unsplash.jpg?alt=media&token=d6d563bf-385a-42d2-96e2-13a13efa4cba",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Leaf Scorch",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Scorched strawberry leaves are caused by a fungal infection which affects the foliage of strawberry plantings. The fungus responsible is called Diplocarpon earliana. Strawberries with leaf scorch may first show signs of issue with the development of small purplish blemishes that occur on the topside of leaves. Over time, the spots will continue to grow larger and darken. In severe cases, dark spots may even cover entire portions of strawberry plant leaves and cause them to completely dry and fall from the plant. Though the foliage of the infected plants is not aesthetically pleasing, it is seldom that the presence of this fungus impacts the quality of the strawberry crop itself.",
+                    "cure": [
+                                {
+                                    "list1": "In matted row or perennial strawberry systems, select a planting site with good air drainage and sun exposure. Cultivars resistant to leaf scorch may be available and need to be evaluated for specific horticultural characteristics. Plant new transplants frequently, and allow adequate spacing between them to increase airflow. Control weeds. Avoid amendment with supplemental nitrogen in spring, as this may enhance disease. Keep moisture levels down and avoid long wetness periods by monitoring irrigation schedules; if possible, use drip irrigation rather than overhead. Remove foliage and crop residues after picking or at renovation to remove inoculum and delay disease increase in late summer and fall. Fungicide treatments are effective during the flowering period, and during late summer and fall."
+                                }
+                            ]
                 },
                 {
-                    "id": 2,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The Strawberry is Healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "Stroberi atau tepatnya stroberi kebun (juga dikenal dengan nama arbei, dari bahasa Belanda aardbei) adalah sebuah varietas stroberi yang paling banyak dikenal di dunia. Seperti spesies lain dalam genus Fragaria (stroberi), buah ini berada dalam keluarga Rosaceae. Secara umum buah ini bukanlah buah, melainkan buah semu, artinya daging buahnya tidak berasal dari ovari tanaman (achenium) tetapi dari bagian bawah hypanthium yang berbentuk mangkuk tempat ovari tanaman itu berada."
         },
         {
             "id" : 14,
             "name": "Tomato",
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/plenticureapi.appspot.com/o/plant-images%2F%5BTOMATO%5D-josephine-baran-g4wzhY8qiMw-unsplash.jpg?alt=media&token=a91b4216-7596-415f-802d-59711794d60e",
             "disease":[
                 {
-                    "id": 1,
                     "name": "Bacterial Scorch",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Bacterial spot of tomato is a potentially devastating disease that, in severe cases, can lead to unmarketable fruit and even plant death.  Bacterial spot can occur wherever tomatoes are grown, but is found most frequently in warm, wet climates, as well as in greenhouses.",
+                    "cure": [
+                                {
+                                    "list1" : "A plant with bacterial spot cannot be cured.  Remove symptomatic plants from the field or greenhouse to prevent the spread of bacteria to healthy plants.  Burn, bury or hot compost the affected plants and DO NOT eat symptomatic fruit.  Although bacterial spot pathogens are not human pathogens, the fruit blemishes that they cause can provide entry points for human pathogens that could cause illness."
+                                }
+                            ]
                 },
                 {
-                    "id": 2,
                     "name": "Early Blight",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Early blight is a common tomato disease caused by the fungus Alternaria solani. It can affect almost all parts of the tomato plants, including the leaves, stems, and fruits. The plants may not die, but they will be weakened and will set fewer tomatoes than normal.1 Early blight generally attacks older plants, but it can also occur on seedlings. Stressed plants or plants in poor health are especially susceptible. Early blight is also a problem with potatoes.",
+                    "cure": [
+                                {
+                                    "list1" : "Certified Seed: Buy seeds and seedlings from reputable sources and inspect all plants before putting them in your garden."
+                                },
+                                {
+                                    "list2" : "Air Circulation: Provide plenty of space for the plants. Good airflow will help keep the plants dry."
+                                },
+                                {
+                                    "list3" : "Fungicides: Keep tabs on your plants, especially during wet weather or if your plants become stressed. If you see signs of blight on a single plant, removing the plant is your best option. Fungicides containing the active ingredients Penthiopyrad or Boscalid will be most effective."
+                                },
+                                {
+                                    "list4" : "Garden Sanitation: Since early blight can over-winter on plant debris and in the soil, sanitation is essential. So many tomato diseases can come into your garden this way so it's very important to clean up all plant residue at the end of the season."
+                                },
+                                {
+                                    "list5" : "Rotate Crops: If you have an outbreak of early blight, find somewhere else to plant your tomatoes next year, even if it's in containers."
+                                }
+                            ]
                 },
                 {
-                    "id": 3,
                     "name": "Late Blight",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Late blight tomato disease is the rarest of the blights that affect both tomatoes and potatoes, but it is also the most destructive. It was the leading factor in the Irish Potato Famine of the 1850's, when millions of people starved because of the devastation wrought by this deadly disease. On tomatoes, the fungus-like organism can destroy a crop within days if conditions are right. Vigilant observation and pre-treatment are the only defenses against late tomato blight.",
+                    "cure": [
+                                {
+                                    "list1" : "Sanitation is the first step in controlling tomato late blight. Clean up all debris and fallen fruit from the garden area. This is particularly essential in warmer areas where extended freezing is unlikely and the late blight tomato disease may overwinter in the fallen fruit."
+                                },
+                                {
+                                    "list2" : "Currently, there are no strains of tomato available that are resistant to late tomato blight, so plants should be inspected at least twice a week. Since late blight symptoms are more likely to occur during wet conditions, more care should be taken during those times."
+                                },
+                                {
+                                    "list3" : "For the home gardener, fungicides that contain maneb, mancozeb, chlorothanolil, or fixed copper can help protect plants from late tomato blight. Repeated applications are necessary throughout the growing season as the disease can strike at any time. For organic gardeners, there are some fixed copper products approved for use; otherwise, all infected plants must be immediately removed and destroyed."
+                                }
+                            ]
                 },
                 {
-                    "id": 4,
                     "name": "Leaf Mold",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Cladosporium fulvum is an Ascomycete called Passalora fulva, a non-obligate pathogen that causes the disease on tomato known as the tomato leaf mold. P. fulva only attacks tomato plants, especially the foliage, and it is a common disease in greenhouses, but can also occur in the field. The pathogen is likely to grow in humid and cool conditions. In greenhouses, this disease causes big problems during the fall, in the early winter and spring, due to the high relative humidity of air and the temperature, that are propitious for the leaf mold development. This disease was first described in the North Carolina, by Mordecai Cubitt Cooke (1883), on cultivated tomato (Cooke 1883), although it is originally from South and Central America. The causal fungus of tomato leaf mold may also be referred to as Cladosporium fulvum (Cooke 1883), a former name.",
+                    "cure": [
+                                {
+                                    "list1" : "Humidity is a major driver in the epidemiology of leaf mold and, therefore, reducing the period of leaf wetness is critical. Growers should do everything possible to reduce humidity. This includes avoiding watering foliage—particularly in the evening—because depending on the temperature in the house, the leaves may remain wet overnight. Good ventilation is important in reducing the overall humidity of the high tunnel or greenhouse. Crowding of plants should be avoided, as disease severity is likely to be worse under conditions of high planting densities. Staking and pruning of plants can help with air movement around the plants."
+                                },
+                                {
+                                    "list2" : "Once disease symptoms are observed on plants, the leaves should be promptly pruned and destroyed. As tools and workers can easily transfer spores to new plants, care needs to be exercised in the pruning process. Plants should not be handled during times of high humidity."
+                                },
+                                {
+                                    "list3" : "When leaf mold has been a problem, all plant material, including weeds, should be removed and destroyed, and the greenhouse disinfected."
+                                },
+                                {
+                                    "list4" : "Crop rotation is important for controlling tomato leaf mold. Producers, whenever possible, should avoid growing tomatoes in the same location year after year."
+                                }
+                            ]
                 },
                 {
-                    "id": 5,
                     "name": "Septoria Leaf Spot",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "septoria leaf spot is caused by a fungus, Septoria lycopersici. It is one of the most destructive diseases of tomato foliage and is particularly severe in areas where wet, humid weather persists for extended periods.",
+                    "cure": [
+                                {
+                                    "list1" : "Remove diseased leaves. If caught early, the lower infected leaves can be removed and burned or destroyed. However, removing leaves above where fruit has formed will weaken the plant and expose fruit to sunscald. At the end of the season, collect all foliage from infected plants and dispose of or bury. Do not compost diseased plants."
+                                }, 
+                                {
+                                    "list2" : "Improve air circulation around the plants. If the plants can still be handled without breaking them, stake or cage the plants to raise them off the ground and promote faster drying of the foliage."
+                                },
+                                {
+                                    "list3" : "Mulch around the base of the plants. Mulching will reduce splashing soil, which may contain fungal spores associated with debris. Apply mulch after the soil has warmed."
+                                },
+                                {
+                                    "list4" : "Do not use overhead watering. Overhead watering facilitates infection and spreads the disease. Use a soaker hose at the base of the plant to keep the foliage dry. Water early in the day."
+                                },
+                                {
+                                    "list5" : "Control weeds. Nightshade and horsenettle are frequently hosts of Septoria leaf spot and should be eradicated around the garden site."
+                                },
+                                {
+                                    "list6" : "Use crop rotation. Next year do not plant tomatoes back in the same location where diseased tomatoes grew. Wait 1-2 years before replanting tomatoes in these areas."
+                                },
+                                {
+                                    "list7" : "Use fungicidal sprays. If the above measures do not control the disease, you may want to use fungicidal sprays. Fungicides will not cure infected leaves, but they will protect new leaves from becoming infected."
+                                }
+                            ]
                 },
                 {
-                    "id": 6,
                     "name": "Spider Mites Two Spotted Spider Mite",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "The tomato red spider mites are pale-orange to red and feed on the underside of leaves. They cannot be seen easily with the naked eye. Feeding damage caused by sucking sap appears as many shiny pale yellow marks on the top of the tomato leaf (see lower photo). Eventually the leaves turn brown and die or fall off. Severe attack leads to formation of webs on the plant (see photo). Red spider mites are difficult but not impossible to control.",
+                    "cure": [
+                                {
+                                    "list1" : "Plant your tomato plants where they stay warm without drying out."
+                                },
+                                {
+                                    "list2" : "Ensure your tomato plants are growing in loamy soil with lots of organic matter."
+                                },
+                                {
+                                    "list3" : "Place hot pepper or garlic in the soil to prevent spider mites. "
+                                },
+                                {
+                                    "list4" : "Apply diatomaceous earth to the soil around your tomato plants."
+                                },
+                                {
+                                    "list5" : "Move your tomato plants indoors to protect them if you can."
+                                }
+                            ]
                 },
                 {
-                    "id": 7,
                     "name": "Target Spot",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Also known as early blight, target spot of tomato is a fungal disease that attacks a diverse assortment of plants, including papaya, peppers, snap beans, potatoes, cantaloupe, and squash as well as passion flower and certain ornamentals. Target spot on tomato fruit is difficult to control because the spores, which survive on plant refuse in the soil, are carried over from season to season. Read on to learn how to treat target spot on tomatoes.",
+                    "cure": [
+                                {
+                                    "list1" : "Remove old plant debris at the end of the growing season; otherwise, the spores will travel from debris to newly planted tomatoes in the following growing season, thus beginning the disease anew. Dispose of the debris properly and don't place it on your compost pile unless you're sure your compost gets hot enough to kill the spores."
+                                },
+                                {
+                                    "list2" : "Rotate crops and don't plant tomatoes in areas where other disease-prone plants have been located in the past year- primarily eggplant, peppers, potatoes or, of course- tomatoes. Rutgers University Extension recommends a three year rotation cycle to reduce soil-borne fungi."
+                                },
+                                {
+                                    "list3" : "Pay careful attention to air circulation, as target spot of tomato thrives in humid conditions. Grow the plants in full sunlight. Be sure the plants aren't crowded and that each tomato has plenty of air circulation. Cage or stake tomato plants to keep the plants above the soil."
+                                },
+                                {
+                                    "list4" : "Water tomato plants in the morning so the leaves have time to dry. Water at the base of the plant or use a soaker hose or drip system to keep the leaves dry. Apply a mulch to keep the fruit from coming in direct contact with the soil. Limit mulch to 3 inches (8 cm.) or less if your plants are bothered by slugs or snails."
+                                }
+                            ]
                 },
                 {
-                    "id": 8,
                     "name": "Mosaic Spot",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Tomato mosaic virus is a serious and extremely contagious disease. It is also hard to identify, with symptoms varying wildly depending upon the variety and age of the infected plant, the strain of the virus, and environmental conditions. To make matters worse, it is very hard to distinguish from the closely related tobacco mosaic virus. Tomato mosaic virus symptoms can be found at any stage of growth and all parts of the plant may be infected. They are often seen as a general mottling or mosaic appearance on foliage. When the plant is severely affected, leaves may look akin to ferns with raised dark green regions. Leaves may also become stunted. Infected plants may have a severe reduction in fruit set and those that do set may be dotted with yellow blotches and necrotic spots while the interior of the fruit is brown. Stems, petioles, leaves and fruit may all show signs of infection.",
+                    "cure": [
+                                {
+                                    "list1" : "Tomato mosaic virus of tomatoes can exist in the soil or plant debris for up to two years, and can be spread just by touch, a gardener who touches or even brushes up against an infected plant can carry the infection for the rest of the day.  You should wash your hands with soap and disinfect tools after handling tomato plants to keep the disease from spreading."
+                                },
+                                {
+                                    "list2" : "Treating mosaic virus is difficult and there are no chemical controls like there are for fungal diseases, although some varieties of tomato are resistant to the disease, and seeds can be bought that are certified disease free. Sanitation is the most important application to practice when controlling tobacco mosaic virus. Tools should be boiled for 5 minutes and then washed with a strong detergent. Bleaching doesn't work for viral decontamination. Destroy any seedlings that appear stunted or distorted and then decontaminate tools and hands."
+                                },
+                                {
+                                    "list3" : "Keep the area around the tomatoes weeded and free of plant detritus to minimize areas the disease can harbor. Control insects as well to lessen the chances of contamination. If you spot the disease in your garden, you should immediately dig up and burn infected plants. Don't plant tomatoes, cucumbers or other plants that are susceptible to mosaic virus in that same area again."
+                                }
+                            ]
                 },
                 {
-                    "id": 9,
                     "name": "Yellow Leaf Curl Virus",
                     "image": "",
-                    "description": "",
-                    "cure": ""
+                    "description": "Tomato yellow leaf curl virus (TYLCV) is a DNA virus from the genus Begomovirus and the family Geminiviridae. TYLCV causes the most destructive disease of tomato, and it can be found in tropical and subtropical regions causing severe economic losses. This virus is transmitted by an insect vector from the family Aleyrodidae and order Hemiptera, the whitefly Bemisia tabaci, commonly known as the silverleaf whitefly or the sweet potato whitefly. The primary host for TYLCV is the tomato plant, and other plant hosts where TYLCV infection has been found include eggplants, potatoes, tobacco, beans, and peppers. Due to the rapid spread of TYLCV in the last few decades, there is an increased focus in research trying to understand and control this damaging pathogen. Some interesting findings include virus being sexually transmitted from infected males to non-infected females (and vice versa), and an evidence that TYLCV is transovarially transmitted to offspring for two generations.",
+                    "cure": [
+                                {
+                                    "list1" : "Currently, the most effective treatments used to control the spread of TYLCV are insecticides and resistant crop varieties. The effectiveness of insecticides is not optimal in tropical areas due to whitefly resistance against the insecticides; therefore, insecticides should be alternated or mixed to provide the most effective treatment against virus transmission.[6] Developing countries experience the most significant losses due to TYLCV infections due to the warm climate as well as the expensive costs of insecticides used as the control strategy. Other methods to control the spread of TYLCV include planting resistant/tolerant lines, crop rotation, and breeding for resistance of TYLCV. As with many other plant viruses, one of the most promising methods to control TYLCV is the production of transgenic tomato plants resistant to TYLCV."
+                                }
+                            ]
                 },
                 {
-                    "id": 10,
                     "name": "Healthy",
                     "image": "",
-                    "description": "",
+                    "description": "The tomato is healthy",
                     "cure": ""
                 }
             ],
-            "description": ""
+            "description": "The tomato is the edible berry of the plant Solanum lycopersicum, commonly known as the tomato plant. The species originated in western South America and Central America. The Mexican Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived. Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico. The Aztecs used tomatoes in their cooking at the time of the Spanish conquest of the Aztec Empire, and after the Spanish encountered the tomato for the first time after their contact with the Aztecs, they brought the plant to Europe, in a widespread transfer of plants known as the Columbian exchange. From there, the tomato was introduced to other parts of the European-colonized world during the 16th century."
         }
     ]
 }
