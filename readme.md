@@ -22,111 +22,101 @@ npm run start
 [https://localhost:8080](http://localhost:8080)
 
 ## Register
-**URL**
+- URL
+    - `/register`
 
-`/register`
+- Method
+    - POST
 
-**Method**
+- Request Body
+    - name : string
+    - email : string, must be unique
+    - password : string, must be at least 6 characters
 
-POST
-
-**Request Body**
-- name : string
-- email : string, must be unique
-- password : string, must be at least 6 characters
-
-**Response**
-```json
-{
-  "error" : false,
-  "message": "User register success",
-  "uid" : " ax1231zx...... "
-}
-```
+- Response
+    ```json
+    {
+      "error" : false,
+      "message": "User register success",
+      "uid" : " ax1231zx...... "
+    }
+    ```
 
 ## Login
-**URL**
+- URL
+    - `/login`
 
-`/login`
+- Method
+    - POST
 
-**Method**
+- Request Body
+    - email : string
+    - password : string
 
-POST
-
-**Request Body**
-- email : string
-- password : string
-
-**Response**
-```json
-{
-  "error" : false,
-  "message": "Successfully logged in.",
-}
-```
+- Response
+    ```json
+    {
+      "error" : false,
+      "message": "Successfully logged in.",
+    }
+    ```
 
 ## Get All Plants
-**URL**
+- URL
+    - `/plants`
 
-`/plants`
+- Method
+    - GET
 
-**Method**
-
-GET
-
-**Response**
-```json
-{
-  "error" : false,
-  "message": "Plants fetched successfully"
-  "data" : [
+- Response
+    ```json
     {
-      ...
+      "error" : false,
+      "message": "Plants fetched successfully"
+      "data" : [
+        {
+          ...
+        }
+      ]
     }
-  ]
-}
-```
+    ```
 
-## Get Plant By Name
-**URL**
+## Get Plant by Name
+- URL
+    - `/plant/{name}`
 
-`/plant/{name}`
+- Method
+    - GET
 
-**Method**
-
-GET
-
-**Response**
-```json
-{
-  "error" : false,
-  "message": "Plants fetched successfully"
-  "data" : [
+- Response
+    ```json
     {
-      ...
+      "error" : false,
+      "message": "Plants fetched successfully"
+      "data" : [
+        {
+          ...
+        }
+      ]
     }
-  ]
-}
-```
+    ```
 
-## Get Disease By Plant
-**URL**
+## Get Disease by Plant
+- URL
+    - `/plant/{name}/disease`
 
-`/plant/{name}/disease`
+- Method
+    - GET
 
-**Method**
-
-GET
-
-**Response**
-```json
-{
-  "error" : false,
-  "message": "Plants fetched successfully"
-  "data" : [
+- Response
+    ```json
     {
-      ...
+      "error" : false,
+      "message": "Plants fetched successfully"
+      "data" : [
+        {
+          ...
+        }
+      ]
     }
-  ]
-}
-```
+    ```
