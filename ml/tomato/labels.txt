@@ -1,0 +1,6 @@
+Tomato_BacterialSpot
+Tomato_EarlyBlight
+Tomato_Healthy
+Tomato_LateBlight
+Tomato_MosaicVirus
+Tomato_YellowLeafCurlVirus
