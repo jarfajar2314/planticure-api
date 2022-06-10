@@ -1,0 +1,3 @@
+Aloevera_healthy
+Aloevera_rot
+Aloevera_rust
